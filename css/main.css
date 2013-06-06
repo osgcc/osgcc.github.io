@@ -24,6 +24,12 @@ section.game h1 {
   margin-bottom: 60px;
 }
 
+section.game {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 section.text {
   margin-bottom: 40px;
 }
