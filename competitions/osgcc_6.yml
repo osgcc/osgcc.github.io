@@ -1,0 +1,40 @@
+title: "OSGCC 6"
+slug: "osgcc_6"
+games:
+  - name: Monastery
+    participants: ["Andrea Della Corte, Rob Filippi, Mike Minella"]
+    languages: [ActionScript, HaXe]
+    slug: monastery
+    summary: "In this game you are the chef of the Monastery, a huge spaceship where food is running scarce!
+      But, when everything seemed lost, the Monastery landed on a wonderful planet full of vegetables! Bad thing is... The plants on this planet walk and are invading your space kitchen!!
+      Can you restore the botanic order by bringing the invaders to the cooking hearth and keeping your comrades from starvation?"
+    source: http://github.com/osgcc/osgcc6-Monastery
+    about: http://github.com/osgcc/osgcc6-Monastery/blob/master/README
+
+  - name: Spectrum
+    participants: ["Chelsea Bodnar", "Christian Stewart", "Mark Sewell"]
+    languages: [ActionScript, HaXe]
+    slug: spectrum
+    source: http://github.com/osgcc/osgcc6-Spectrum
+    about: http://github.com/osgcc/osgcc6-Spectrum/blob/master/README
+
+  - name: Super Rotisserie DX
+    participants: ["Kyle Magocs", "George Kontogiannis", "Zach Reinhardt"]
+    languages: [python, pyGame]
+    slug: super-rotisserie-dx
+    source: http://github.com/osgcc/osgcc6-SuperRotisserieDX
+    about: http://github.com/osgcc/osgcc6-SuperRotisserieDX/blob/master/README
+
+  - name: Pepper Sweeper
+    participants: ["Kathryn Lavelle", "Phillip Faust"]
+    languages: [C#]
+    slug: pepper-sweeper
+    source: http://github.com/osgcc/osgcc6-PepperSweeper
+    about: http://github.com/osgcc/osgcc6-PepperSweeper/blob/master/README
+
+  - name: Twisty Words
+    participants: [wilkie]
+    languages: [lua, l&ouml;ve]
+    slug: twisty-words
+    source: https://github.com/osgcc/osgcc6-TwistyWords
+    about: https://github.com/osgcc/osgcc6-TwistyWords/blob/master/readme.md

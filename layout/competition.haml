@@ -1,0 +1,40 @@
+%section
+  %h1.competition #{competition["title"]}
+  - competition["games"].each do |game|
+    %h2.game #{game["name"]}
+    %ul.participants
+      Creators:
+      - game["participants"].each do |participant|
+        %li.participant #{participant}
+    - if game["summary"]
+      %p.summary #{game["summary"]}
+    %ul.screenshots
+      - has_images = false
+      - (0..2).each do |index|
+        - if File.exists?("thumbs/#{competition["slug"]}/#{game["slug"]}_#{index}.png")
+          - has_images = true
+          %li.screenshot
+            %a.popup{:href => "/images/#{competition["slug"]}/#{game["slug"]}_#{index}.png"}>
+              %img{:src => "/thumbs/#{competition["slug"]}/#{game["slug"]}_#{index}.png"}>
+      - unless has_images
+        No Screenshots Available
+    %ul.links
+      - if game["source"]
+        %li.link
+          %a{:href => game["source"]} source
+      - if game["about"]
+        %li.link
+          %a{:href => game["about"]} about
+      - if game["video"]
+        %li.link
+          %a{:href => game["video"]} video
+      - if game["download"]
+        %li.link
+          %a{:href => game["download"]} download
+      - if game["play"]
+        %li.link
+          %a{:href => game["play"]} play
+    %ul.languages
+      Languages:
+      - game["languages"].each do |language|
+        %li.language #{language}

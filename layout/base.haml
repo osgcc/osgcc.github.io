@@ -1,0 +1,22 @@
+!!!
+%html
+  %head
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => '/css/reset.css'}
+    %link{:rel => 'stylesheet', :type => 'text/css',
+      :href => 'http://fonts.googleapis.com/css?family=Open+Sans:400,300,600'}
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => '/css/main.css'}
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => '/css/magnific-popup.css'}
+  %body
+    %nav
+      %ul.navbar
+        %li
+          %a{:href => "/index.html"} Home
+        %li
+          %a{:href => "/competitions.html"} Competitions
+        %li
+          %a{:href => "/resources.html"} Resources
+    = yield
+
+    %script{:type => "text/javascript", :src => "/js/jquery.js"}
+    %script{:type => "text/javascript", :src => "/js/jquery.magnific-popup.min.js"}
+    %script{:type => "text/javascript", :src => "/js/app.js"}

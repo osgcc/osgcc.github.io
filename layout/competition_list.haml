@@ -1,0 +1,6 @@
+%section.competitions
+  %h1.title Competitions
+  %ul.competitions
+    - competitions.each do |link|
+      %li.title
+        %a{:href=>link[:path]} #{link[:title]}

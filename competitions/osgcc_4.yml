@@ -1,0 +1,52 @@
+title: "OSGCC 4"
+slug: "osgcc_4"
+games:
+  - name: Ascii Ascii Revolution
+    participants: ["Lindsey Bieda", "Jackie Kircher", "James Larkby-Lahet"]
+    languages: [D]
+    summary: "This is Ascii Ascii Revolution, Deluxe Dubstep Narwhal Edition. Now with
+              less dubstep and more corn! This rhythm game tests the agility of your
+              hands and your mind with music from anamanaguchi. Play well, and be
+              rewarded with the awesome moves of the majestic ascii narwhal."
+    slug: AsciiAsciiRevolution
+    source: http://github.com/osgcc/osgcc4-AsciiAsciiRevolution
+    about: http://github.com/osgcc/osgcc4-AsciiAsciiRevolution/blob/master/README
+    video: http://www.youtube.com/watch?v=Fil-LXC9CRA
+
+  - name: Robot Pirate
+    participants: ["Jarrett Billingsley"]
+    languages: [croc]
+    summary: "The year is 20XX. Earth has been opened to intergalactic trade, but security is
+              loose and pirates are a common sight. You are a synthetic being created by a
+              crime syndicate. However, you have become trapped deep inside a large space
+              station while on a mission. Now you must fight your way out against the other
+              robotic guards. Good luck!"
+    slug: RobotPirate
+    source: http://github.com/osgcc/osgcc4-RobotPirate
+    about: http://github.com/osgcc/osgcc4-RobotPirate/blob/master/README
+
+  - name: LanMar
+    participants: ["Jay Soyer"]
+    languages: [FreeBasic]
+    slug: "LanMar"
+    source: http://github.com/osgcc/osgcc4-LanMar
+    about: http://github.com/osgcc/osgcc4-LanMar/blob/master/README
+
+  - name: Release The Kraken
+    participants: ["Tom", "Tim", "Lucas Catabriga"]
+    languages: [Python]
+    slug: "ReleaseTheKraken"
+    source: http://github.com/osgcc/osgcc4-ReleaseTheKraken
+    about: http://github.com/osgcc/osgcc4-ReleaseTheKraken/blob/master/README
+
+  - name: F.E.U.Q.
+    participants: ["Steve Klabnik", "Chris Hartman", "John", "Matt", "Ryan", "Josh"]
+    languages: [ruby]
+    slug: FEUQ
+    source: http://github.com/osgcc/osgcc4-feuq
+
+  - name: Diabolical efF-up
+    participants: ["Will", "Corrigan", "Randy Tobias"]
+    languages: [C++]
+    slug: dfu
+    source: http://github.com/osgcc/osgcc4-dfu

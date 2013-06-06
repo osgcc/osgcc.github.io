@@ -1,0 +1,23 @@
+title: "OSGCC 3"
+slug: "osgcc_3"
+games:
+  - name: theGame
+    participants: ["Adam Hobaugh", "Jackie Kircher"]
+    languages: [D]
+    slug: "TheGame"
+    source: http://github.com/osgcc/osgcc3-TheGame
+    about: http://github.com/osgcc/osgcc3-TheGame/blob/master/README.md
+
+  - name: TriviaLlama
+    participants: ["Lindsey Bieda", "Steve Klabnik"]
+    languages: [ruby]
+    slug: "TriviaLlama"
+    source: http://github.com/osgcc/osgcc3-TriviaLlama
+    about: http://github.com/osgcc/osgcc3-TriviaLlama/blob/master/README
+
+  - name: LaserDS
+    participants: ["JarrettBillingsley"]
+    languages: [C++]
+    slug: "LaserDS"
+    source: http://github.com/osgcc/osgcc3-LaserDS
+    about: http://github.com/osgcc/osgcc3-LaserDS/blob/master/README

@@ -1,0 +1,30 @@
+title: "OSGCC 1"
+slug: "osgcc_1"
+games:
+  - name: Mail Defense
+    participants: ["Eric Conlon", "Nick Farnan", "Joe Frambach"]
+    languages: [python]
+    slug: "MailDefense"
+    source: http://github.com/osgcc/osgcc1-MailDefense
+    about: http://github.com/osgcc/osgcc1-MailDefense/blob/master/README.md
+
+  - name: Resident Pancake
+    participants: ["Jarrett Billingsley", "Chris Brack", "Adam Modlin"]
+    languages: [D]
+    slug: "ResidentPancake"
+    source: http://github.com/osgcc/osgcc1-ResidentPancake
+    about: http://github.com/osgcc/osgcc1-ResidentPancake/blob/master/README
+
+  - name: Chalupas
+    participants: ["Lindsey Bieda", "Brad Kuhlman", "wilkie"]
+    languages: [C++]
+    slug: "Chalupas"
+    source: http://github.com/osgcc/osgcc1-Chalupas
+    about: http://github.com/osgcc/osgcc1-Chalupas/blob/master/README
+
+  - name: Moon Invaders
+    participants: ["Jay Soyer"]
+    languages: [QuickBasic]
+    slug: "MoonInvaders"
+    source: http://github.com/osgcc/osgcc1-MoonInvaders
+    about: http://github.com/osgcc/osgcc1-MoonInvaders/blob/master/README

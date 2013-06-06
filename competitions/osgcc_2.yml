@@ -1,0 +1,30 @@
+title: "OSGCC 2"
+slug: "osgcc_2"
+games:
+  - name: OMGWTFADD
+    participants: ["Lindsey Bieda", "Brad Kuhlman", "wilkie"]
+    languages: [C++]
+    slug: "omgwtfadd"
+    source: http://github.com/osgcc/osgcc2-OMGWTFADD
+    about: http://github.com/osgcc/osgcc2-OMGWTFADD/blob/master/README.md
+
+  - name: Steampunk Calculators
+    participants: ["Eduardo Gonzalez", "Josh Albrecht"]
+    languages: [python]
+    slug: "steampunk-calculators"
+    source: http://github.com/osgcc/osgcc2-SteampunkCalculators
+    about: http://github.com/osgcc/osgcc2-SteampunkCalculators/blob/master/README
+
+  - name: Tetris
+    participants: ["Chuck Davis", "Steve Klabnik", "Marylou Kunkle"]
+    languages: [D]
+    slug: "Tetris"
+    source: http://github.com/osgcc/osgcc2-Tetris
+    about: http://github.com/osgcc/osgcc2-Tetris/blob/master/README
+
+  - name: MoonRPG
+    participants: ["Jessica Hedges", "Jay Soyer"]
+    languages: [QuickBasic]
+    slug: "MoonRPG"
+    source: http://github.com/osgcc/osgcc2-MoonRPG
+    about: http://github.com/osgcc/osgcc2-MoonRPG/blob/master/README

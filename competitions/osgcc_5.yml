@@ -1,0 +1,59 @@
+title: "OSGCC 5"
+slug: "osgcc_5"
+games:
+  - name: VimCity
+    participants: ["Andrea Della Corte", "Joanna Drummond", "Jackie Kircher"]
+    languages: [VimScript, ruby]
+    slug: "VimCity"
+    source: http://github.com/osgcc/osgcc5-VimCity
+    about: http://github.com/osgcc/osgcc5-VimCity/blob/master/README.md
+
+  - name: EinsteinDefense
+    participants: ["Alexander Conrad", "Joshua Frey", "Derek Ness"]
+    languages: [Java, Android SDK]
+    slug: "EinsteinDefense"
+    source: http://github.com/osgcc/osgcc5-EinsteinDefense
+    about: http://github.com/osgcc/osgcc5-EinsteinDefense/blob/master/README
+
+  - name: IronTrotter
+    participants: ["Lindsey Bieda", "Joel Griffith", "James Larkby-Lahet"]
+    languages: [python, PyGame]
+    slug: "IronTrotter"
+    source: http://github.com/osgcc/osgcc5-IronTrotter
+    about: http://github.com/osgcc/osgcc5-IronTrotter/blob/master/README
+
+  - name: William Wallace Castle Defender
+    participants: ["Kyle Magocs", "Zach Reinhardt"]
+    languages: [python, PyGame]
+    slug: "WilliamWallaceCastleDefender"
+    source: http://github.com/osgcc/osgcc5-WilliamWallaceCastleDefender
+    about: http://github.com/osgcc/osgcc5-WilliamWallaceCastleDefender/blob/master/README
+
+  - name: DoodleDoom
+    participants: ["Kristy Caster", "Sean Myers", "Andrew Tribone"]
+    languages: [dart]
+    slug: "DoodleDoom"
+    source: http://github.com/osgcc/osgcc5-DoodleDoom
+    about: http://github.com/osgcc/osgcc5-DoodleDoom/blob/master/README
+
+  - name: "Meow Meow Panic"
+    participants: ["Francis Ng", "Chun Ping Ng", "Jin Hao Chong"]
+    languages: [Java]
+    slug: "MeowMeowPanic"
+    source: http://github.com/osgcc/osgcc5-MeowMeowPanic
+    about: http://github.com/osgcc/osgcc5-MeowMeowPanic/blob/master/README
+
+  - name: Indiana Josef
+    participants: ["wilkie"]
+    languages: [lua, l&ouml;ve]
+    summary: "You are an ambitious robot that decided on a whim to major in archeology. Your
+      task? To study an extinct race known as humans. Long ago, these people taunted
+      the gods with nuclear force. Eventually, their civilization was wiped out by
+      decades of war.
+
+      However, it is your society that wishes to learn from these predecessors. Help
+      your race by gathering the long forgotten tomes and brain matter of the former
+      human species."
+    slug: "IndianaJosef"
+    source: http://github.com/osgcc/osgcc5-IndianaJosef
+    about: http://github.com/osgcc/osgcc5-IndianaJosef/blob/master/README
