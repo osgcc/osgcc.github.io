@@ -6,6 +6,8 @@ games:
     languages: [ActionScript, HaXe]
     slug: monastery
     flash: monastery
+    width: 800px
+    height: 600px
     summary: "In this game you are the chef of the Monastery, a huge spaceship where food is running scarce!
       But, when everything seemed lost, the Monastery landed on a wonderful planet full of vegetables! Bad thing is... The plants on this planet walk and are invading your space kitchen!!
       Can you restore the botanic order by bringing the invaders to the cooking hearth and keeping your comrades from starvation? WASD to move."
@@ -20,6 +22,8 @@ games:
     languages: [ActionScript, HaXe]
     flash: spectrum
     slug: spectrum
+    width: 640px
+    height: 480px
     source: http://github.com/osgcc/osgcc6-Spectrum
     about: http://github.com/osgcc/osgcc6-Spectrum/blob/master/README
 

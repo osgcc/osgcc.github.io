@@ -11,10 +11,12 @@ var params = {
 var attributes = {
   id:"Monastery"
 };
-var game_name = document.getElementById('game-name').value;
-var game_slug = document.getElementById('game-slug').value;
+var game_name   = document.getElementById('game-name').value;
+var game_slug   = document.getElementById('game-slug').value;
+var game_width  = document.getElementById('game-width').value;
+var game_height = document.getElementById('game-height').value;
 swfobject.embedSWF(
     "/games/" + game_slug + ".swf",
-    "alt-content", "800px", "600px", "10.0.0",
+    "alt-content", game_width, game_height, "10.0.0",
     "/flash/expressInstall.swf",
     flashvars, params, attributes);

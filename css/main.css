@@ -20,6 +20,10 @@ nav {
   box-shadow:         0 0 10px #111;
 }
 
+section.game h1 {
+  margin-bottom: 60px;
+}
+
 section.text {
   margin-bottom: 40px;
 }
