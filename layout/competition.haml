@@ -19,6 +19,9 @@
       - unless has_images
         No Screenshots Available
     %ul.links
+      - if game["flash"]
+        %li.link
+          %a{:href => "/games/#{competition["slug"]}-#{game["slug"]}.html"} play
       - if game["source"]
         %li.link
           %a{:href => game["source"]} source
