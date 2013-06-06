@@ -7,12 +7,15 @@ games:
     slug: monastery
     summary: "In this game you are the chef of the Monastery, a huge spaceship where food is running scarce!
       But, when everything seemed lost, the Monastery landed on a wonderful planet full of vegetables! Bad thing is... The plants on this planet walk and are invading your space kitchen!!
-      Can you restore the botanic order by bringing the invaders to the cooking hearth and keeping your comrades from starvation?"
+      Can you restore the botanic order by bringing the invaders to the cooking hearth and keeping your comrades from starvation? WASD to move."
     source: http://github.com/osgcc/osgcc6-Monastery
     about: http://github.com/osgcc/osgcc6-Monastery/blob/master/README
 
   - name: Spectrum
     participants: ["Chelsea Bodnar", "Christian Stewart", "Mark Sewell"]
+    summary: "You are Visible Light and you are tasked to defeat the three, normally dormant, foes: Radio, Microwave,
+              and the skeletal X-Ray. This is a very challenging Boss Battler designed with appropriately colorful
+              original graphics done in a Zelda-like style. Arrow keys to move, Z to swing the light sword."
     languages: [ActionScript, HaXe]
     slug: spectrum
     source: http://github.com/osgcc/osgcc6-Spectrum
@@ -20,6 +23,9 @@ games:
 
   - name: Super Rotisserie DX
     participants: ["Kyle Magocs", "George Kontogiannis", "Zach Reinhardt"]
+    summary: "In this gruesome platformer, you are a cooked rotisserie chicken. Attempt to avoid your ultimate
+              fate by dodging baked bean projectiles and morbid mouths that wish to make you the main course of
+              this barbecue. Escape the slaughterhouse and win."
     languages: [python, pyGame]
     slug: super-rotisserie-dx
     source: http://github.com/osgcc/osgcc6-SuperRotisserieDX
@@ -29,6 +35,9 @@ games:
     participants: ["Kathryn Lavelle", "Phillip Faust"]
     languages: [C#]
     slug: pepper-sweeper
+    summary: "There has been quite a mix-up at the diner in this creative rendition of a classic. Somebody
+              confused the chilies for the blueberries while preparing quite the massive waffle! Use your wits
+              to identify and flag the peppers as alluded by the number of peppers touching each waffle tile."
     source: http://github.com/osgcc/osgcc6-PepperSweeper
     about: http://github.com/osgcc/osgcc6-PepperSweeper/blob/master/README
 
@@ -36,5 +45,8 @@ games:
     participants: [wilkie]
     languages: [lua, l&ouml;ve]
     slug: twisty-words
+    summary: "Yet another... twist on a classic. In this game, you are pitted against the dictionary. Identify
+              as many anagrams from the given letters as you can in two minutes. If you can determine at least
+              one word that uses all of the letters, you can advance to the next round."
     source: https://github.com/osgcc/osgcc6-TwistyWords
     about: https://github.com/osgcc/osgcc6-TwistyWords/blob/master/readme.md
