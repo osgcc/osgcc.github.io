@@ -66,6 +66,10 @@ section {
   margin-right: auto;
 }
 
+section.game {
+  width: 100%;
+}
+
 p {
   font-family: "Open Sans", sans-serif;
   color: #999;
