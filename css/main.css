@@ -20,8 +20,8 @@ nav {
   box-shadow:         0 0 10px #111;
 }
 
-section.game h1 {
-  margin-bottom: 60px;
+section.game h2 {
+  padding-top: 25px;
 }
 
 section.game {
@@ -30,7 +30,14 @@ section.game {
   text-align: center;
 }
 
-section.text {
+section.game p.summary {
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+section.text, section.game {
   margin-bottom: 40px;
 }
 
